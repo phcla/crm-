@@ -1,0 +1,6 @@
+2021-04-16 09:33:38.965 [http-nio-10000-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter found for return value of type: class com.sm.qy28.common.http.AxiosResult]
+2021-04-16 09:34:06.146 [http-nio-10000-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter found for return value of type: class com.sm.qy28.common.http.AxiosResult]
+2021-04-16 14:27:04.263 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h3m13s579ms308µs504ns).
+2021-04-16 15:34:09.973 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m35s713ms972µs943ns).
+2021-04-16 16:35:05.123 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s990ms951µs847ns).
+2021-04-16 19:49:15.924 [http-nio-10000-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]

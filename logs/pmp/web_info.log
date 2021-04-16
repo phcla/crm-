@@ -1,0 +1,85 @@
+2021-04-16 09:29:47.099 [main] INFO  com.sm.qy28.ProjectApplication - Starting ProjectApplication on JAVA-20200825JO with PID 10672 (E:\java workspace\crmmaster\target\classes started by JAVASM in E:\java workspace\crmmaster)
+2021-04-16 09:29:47.105 [main] INFO  com.sm.qy28.ProjectApplication - No active profile set, falling back to default profiles: default
+2021-04-16 09:29:48.023 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10000 (http)
+2021-04-16 09:29:48.030 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10000"]
+2021-04-16 09:29:48.031 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-04-16 09:29:48.031 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-04-16 09:29:48.095 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-04-16 09:29:48.095 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 947 ms
+2021-04-16 09:29:48.391 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-16 09:29:48.557 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10000"]
+2021-04-16 09:29:48.572 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10000 (http) with context path ''
+2021-04-16 09:29:48.578 [main] INFO  com.sm.qy28.ProjectApplication - Started ProjectApplication in 1.843 seconds (JVM running for 2.477)
+2021-04-16 09:30:08.078 [http-nio-10000-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-16 09:30:08.079 [http-nio-10000-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-04-16 09:30:08.082 [http-nio-10000-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2021-04-16 09:30:08.107 [http-nio-10000-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-04-16 09:30:08.418 [http-nio-10000-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-04-16 09:33:33.588 [main] INFO  com.sm.qy28.ProjectApplication - Starting ProjectApplication on JAVA-20200825JO with PID 9616 (E:\java workspace\crmmaster\target\classes started by JAVASM in E:\java workspace\crmmaster)
+2021-04-16 09:33:33.591 [main] INFO  com.sm.qy28.ProjectApplication - No active profile set, falling back to default profiles: default
+2021-04-16 09:33:34.351 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10000 (http)
+2021-04-16 09:33:34.357 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10000"]
+2021-04-16 09:33:34.358 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-04-16 09:33:34.358 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-04-16 09:33:34.409 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-04-16 09:33:34.409 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 775 ms
+2021-04-16 09:33:34.745 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-16 09:33:34.864 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10000"]
+2021-04-16 09:33:34.876 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10000 (http) with context path ''
+2021-04-16 09:33:34.883 [main] INFO  com.sm.qy28.ProjectApplication - Started ProjectApplication in 1.535 seconds (JVM running for 2.255)
+2021-04-16 09:33:38.698 [http-nio-10000-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-16 09:33:38.699 [http-nio-10000-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-04-16 09:33:38.702 [http-nio-10000-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2021-04-16 09:33:38.716 [http-nio-10000-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-04-16 09:33:38.824 [http-nio-10000-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-04-16 09:36:44.473 [main] INFO  com.sm.qy28.ProjectApplication - Starting ProjectApplication on JAVA-20200825JO with PID 9604 (E:\java workspace\crmmaster\target\classes started by JAVASM in E:\java workspace\crmmaster)
+2021-04-16 09:36:44.475 [main] INFO  com.sm.qy28.ProjectApplication - No active profile set, falling back to default profiles: default
+2021-04-16 09:36:45.138 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10000 (http)
+2021-04-16 09:36:45.143 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10000"]
+2021-04-16 09:36:45.144 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-04-16 09:36:45.144 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-04-16 09:36:45.199 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-04-16 09:36:45.200 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 690 ms
+2021-04-16 09:36:45.508 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-16 09:36:45.629 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10000"]
+2021-04-16 09:36:45.642 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10000 (http) with context path ''
+2021-04-16 09:36:45.648 [main] INFO  com.sm.qy28.ProjectApplication - Started ProjectApplication in 1.392 seconds (JVM running for 1.883)
+2021-04-16 09:36:51.686 [http-nio-10000-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-16 09:36:51.686 [http-nio-10000-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-04-16 09:36:51.690 [http-nio-10000-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2021-04-16 09:36:51.704 [http-nio-10000-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-04-16 09:36:51.813 [http-nio-10000-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-04-16 19:52:28.490 [main] INFO  com.sm.qy28.ProjectApplication - Starting ProjectApplication on JAVA-20200825JO with PID 3040 (E:\java workspace\crmmaster\target\classes started by JAVASM in E:\java workspace\crmmaster)
+2021-04-16 19:52:28.492 [main] INFO  com.sm.qy28.ProjectApplication - No active profile set, falling back to default profiles: default
+2021-04-16 19:52:29.236 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10000 (http)
+2021-04-16 19:52:29.242 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10000"]
+2021-04-16 19:52:29.243 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-04-16 19:52:29.243 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-04-16 19:52:29.307 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-04-16 19:52:29.307 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 778 ms
+2021-04-16 19:52:29.663 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-16 19:52:29.794 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10000"]
+2021-04-16 19:52:29.808 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10000 (http) with context path ''
+2021-04-16 19:52:29.815 [main] INFO  com.sm.qy28.ProjectApplication - Started ProjectApplication in 1.598 seconds (JVM running for 2.196)
+2021-04-16 19:52:34.504 [http-nio-10000-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-16 19:52:34.504 [http-nio-10000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-04-16 19:52:34.507 [http-nio-10000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2021-04-16 19:52:34.606 [http-nio-10000-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-04-16 19:52:34.747 [http-nio-10000-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-04-16 19:58:48.581 [main] INFO  com.sm.qy28.ProjectApplication - Starting ProjectApplication on JAVA-20200825JO with PID 9388 (E:\java workspace\crmmaster\target\classes started by JAVASM in E:\java workspace\crmmaster)
+2021-04-16 19:58:48.583 [main] INFO  com.sm.qy28.ProjectApplication - No active profile set, falling back to default profiles: default
+2021-04-16 19:58:49.578 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 10000 (http)
+2021-04-16 19:58:49.584 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10000"]
+2021-04-16 19:58:49.585 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-04-16 19:58:49.585 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-04-16 19:58:49.657 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-04-16 19:58:49.657 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1016 ms
+2021-04-16 19:58:50.075 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-16 19:58:50.245 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-10000"]
+2021-04-16 19:58:50.263 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 10000 (http) with context path ''
+2021-04-16 19:58:50.269 [main] INFO  com.sm.qy28.ProjectApplication - Started ProjectApplication in 2.049 seconds (JVM running for 3.096)
+2021-04-16 19:59:01.161 [http-nio-10000-exec-4] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-16 19:59:01.161 [http-nio-10000-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-04-16 19:59:01.164 [http-nio-10000-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2021-04-16 19:59:01.243 [http-nio-10000-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-04-16 19:59:01.393 [http-nio-10000-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
